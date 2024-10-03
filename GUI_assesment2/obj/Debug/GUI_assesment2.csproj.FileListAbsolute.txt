@@ -1,0 +1,10 @@
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\bin\Debug\GUI_assesment2.exe.config
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\bin\Debug\GUI_assesment2.exe
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\bin\Debug\GUI_assesment2.pdb
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.csproj.AssemblyReference.cache
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.Form1.resources
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.Properties.Resources.resources
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.csproj.GenerateResource.cache
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.csproj.CoreCompileInputs.cache
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.exe
+D:\TAFE\programing\C#\C#_week 4 GUI\GUI_assesment2\obj\Debug\GUI_assesment2.pdb
